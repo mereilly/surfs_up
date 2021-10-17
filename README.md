@@ -17,9 +17,7 @@ We received W. Avy's data on Hawaii weather collections as a sqllite file, which
 #### Here we just focus on Hawaii in June and in Decemeber.
 Here are the basic statistics for the two months in comparison: 
 *June (F°)*                  *December (F°)* 
-![Screen Shot 2021-10-17 at 11 27 11 AM](https://user-images.githubusercontent.com/82982952/137634498-898cd31d-e64a-4fb4-8432-7768ecceb26d.png)
-![Screen Shot 2021-10-17 at 11 28 24 AM](https://user-images.githubusercontent.com/82982952/137634501-00f9f549-96c8-45f7-935f-0d1bfdb64e93.png)
-
+![Screen Shot 2021-10-17 at 11 40 27 AM](https://user-images.githubusercontent.com/82982952/137634557-6a7eed0a-062a-4d32-93c8-ed8f9df84c17.png)
 
 Let's focus on three ponts: 
 The following three differences are noted between June and December temperatures:
